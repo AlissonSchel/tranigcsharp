@@ -1,0 +1,4 @@
+-Levando em conta de que existam realidades simuladas e que cada realidade simulada possa criar uma realidade simulada, assim infinitamente.
+-Existindo somente 1 única realidade que não seja simulada.
+	-Logo, estatísticamente, nossa realidade seria uma das simuladas.
+	-Como rolar um dado de lados infinitos e um dos lados somente não conter número.
